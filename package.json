@@ -1,0 +1,12 @@
+{
+  "name": "test-connect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.7.3",
+    "@hyperledger/fabric-gateway": "^1.1.1",
+    "fabric-gateway": "hyperledger/fabric-gateway",
+    "yaml": "^2.1.3"
+  }
+}
